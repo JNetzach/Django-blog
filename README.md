@@ -1,2 +1,2 @@
-# Django-blog
-我的博客项目
+# djangoproject
+我上传到GitHub上的第一个django项目
