@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'qe*$=bl^f^4h*u)ul%%7pfbncgt)q)v6v-5lc%bd7cdhkar_d*'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.jnetzach.xyz']
+ALLOWED_HOSTS = ['47.242.239.169', 'localhost', '.jnetzach.xyz']
 
 
 # Application definition
